@@ -1,3 +1,3 @@
 # WittyMessageCenter
 
-A description of this package.
+https://wittycoder.medium.com/swifty-notifications-b5dbe792fd17
